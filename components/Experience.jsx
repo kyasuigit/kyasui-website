@@ -187,13 +187,13 @@ const Experience = () => {
               </li>
               <li className="mb-[1.2rem]">
                 Led the test automation development of the three components of
-                the Batch 2.0 servics, testing the Batch API with 96%+ test
+                the Batch 2.0 services, testing the Batch API with 85%+ test
                 coverage.
               </li>
               <li>
                 Automated and debugged over 30 API microservices and business
                 services used by numerous automobile companies, increasing
-                software quality and tesing capabilities.
+                software quality and testing capabilities.
               </li>
             </ul>
             <div className="my-[1.7rem]"></div>
